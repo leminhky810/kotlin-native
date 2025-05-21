@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinNative</string>
+    <string name="frutties">Fruittee</string>
+    <string name="add">Add\n</string>
+</resources>
